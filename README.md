@@ -23,22 +23,22 @@ It supports **user and admin roles**, with features like:
 ## 🖥️ Screenshots
 
 ### ✅ Home Page
-![Home](image.png)
+![Home](./screenshots/image.png)
 
 ### ✅ Login Page
-![Login](image-1.png)
+![Login](./screenshots/image-1.png)
 
 
 ### 🛒 Products Page
-![Products](image-2.png)
+![Products](./screenshots/image-2.png)
 
 ### 🧺 Cart Page
-![Cart](image-3.png)
+![Cart](./screenshots/image-3.png)
 
 ### 📦 Orders Page
-![Orders](image-4.png)
+![Orders](./screenshots/image-4.png)
 ### 🛠 Admin Dashboard
-![Admin](image-5.png)
+![Admin](./screenshots/image-5.png)
 
 ---
 
