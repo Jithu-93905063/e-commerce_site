@@ -33,12 +33,12 @@ It supports **user and admin roles**, with features like:
 ![Products](image-2.png)
 
 ### 🧺 Cart Page
-![Cart]!(image-3.png)
+![Cart](image-3.png)
 
 ### 📦 Orders Page
 ![Orders](image-4.png)
 ### 🛠 Admin Dashboard
-![Admin]!(image-5.png)
+![Admin](image-5.png)
 
 ---
 
