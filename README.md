@@ -10,6 +10,10 @@ It supports **user and admin roles**, with features like:
 - Admin panel to manage products and view all orders
 
 ---
+#📺VIDEO reference link
+
+https://drive.google.com/file/d/1dhc1aAEXw9sfJuooIj0q8GPEKEItCQVG/view?usp=drivesdk
+
 
 ## 🚀 Tech Stack
 
@@ -57,7 +61,7 @@ For backend:
 cd ../server
 node index.js
 
-
+```bash
 📦 Folder Structure
 ecommerce_app/
 │
@@ -71,7 +75,7 @@ ecommerce_app/
 │   ├── controllers/
 │   └── index.js
 
-
+```
 
 Password Hashing (Hash File)
 In this project, we use bcryptjs to securely hash user passwords before storing them in the database. This is a critical security measure to protect user credentials even if the database is compromised.
