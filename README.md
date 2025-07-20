@@ -15,6 +15,11 @@ It supports **user and admin roles**, with features like:
 https://drive.google.com/file/d/1dhc1aAEXw9sfJuooIj0q8GPEKEItCQVG/view?usp=drivesdk
 
 ---
+# 📄Doc
+
+https://drive.google.com/drive/folders/1D-b8jJOVH8-9fETwYLb3n680Fr85zMcd?usp=sharing
+
+---
 
 ## 🚀 Tech Stack
 
