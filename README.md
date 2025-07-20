@@ -91,6 +91,10 @@ Copy the generated hash.
 Paste it as the password field in your database record.
 
 
+📄 License
+This project is licensed under the MIT License:
+https://drive.google.com/drive/folders/1D-b8jJOVH8-9fETwYLb3n680Fr85zMcd?usp=sharing
+
 
 ✨ Author
 Jithu I
