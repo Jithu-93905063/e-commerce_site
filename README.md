@@ -91,7 +91,7 @@ Copy the generated hash.
 Paste it as the password field in your database record.
 
 
-📄 License
+##📄 License
 
 This project is licensed under the MIT License:
 
